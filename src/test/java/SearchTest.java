@@ -1,4 +1,4 @@
 public class SearchTest {
 
-    qwe;
+    int a = 1;
 }
