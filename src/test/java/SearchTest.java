@@ -6,6 +6,6 @@ public class SearchTest {
 
     public void qwerty (){
         int d = a + b;
-        int e = d + a;
+        int e = d + b;
     }
 }
