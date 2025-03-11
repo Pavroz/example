@@ -5,8 +5,11 @@ public class SearchTest {
     String c = "qwerq";
 
     public void qwerty (){
-        int d = a + b;
-        int e = d + b;
-        int bb = b * a;
+        int ddds = a + b;
+
+
+
+
+
     }
 }
